@@ -1,2 +1,2 @@
-Feature update branch added.
-This file is updated in the feature-update branch.
+Feature branch update added.
+Learning Git branch merging.
