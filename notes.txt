@@ -1,2 +1,2 @@
-Feature update branch added.
-This file is updated in the feature-update branch.
+This file contains notes about Git experiment.
+Learning Git commands and version control.
