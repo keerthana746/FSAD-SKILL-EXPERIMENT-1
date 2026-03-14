@@ -1,2 +1,4 @@
-This file contains notes about Git experiment.
-Learning Git commands and version control.
+This is content from main branch
+Feature branch update added.
+Learning Git branch merging.
+
